@@ -1,5 +1,5 @@
 ############################# Default configuration ########################
-baseURL = "http://smallapps.tristangoetz.me"
+baseURL = "https://smallapps.tristangoetz.me"
 title = "Small Apps | App Landing Template"
 theme = "small-apps-hugo"
 # post pagination
